@@ -9,7 +9,7 @@ const RichTextEditor: React.FC = () => {
     <div className="editor-container">
       <Editor
         initialValue="<p>Start typing here...</p>"
-        apiKey="tkz7274d69pas5bahfi05oluryite0mfml110kut1u5soaoz"
+        apiKey="99bbyec6xuggu6q96pc9eoet1relaui3ewcrrqt8yfvsrety"
         onEditorChange={(content) => setEditorContent(content)}
         init={{
           height: 400,
